@@ -413,3 +413,4 @@ valley=new LifelikeWorld(
    "*": Plant}
 );
 console.log(valley.toString());
+
